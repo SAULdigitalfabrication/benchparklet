@@ -3,10 +3,3 @@ _CNC_
 **lasercutting**
 # Sections 
 
-
-
-
-<script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script><html> 
-<body>
-<script type="text/javascript" src="http://htmlfreecodes.com/codes/rain.js"></script>
-</body><a target="_blank" href="free-web-tools.com/font-sofia-pro/" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">sofia pro font</a><a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>
