@@ -59,3 +59,4 @@ Once all the correct parts have been gathered follow this process for each set
 
 _italic_
 **bold** 
+~~Strikethrough~~
