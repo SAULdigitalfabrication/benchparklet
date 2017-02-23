@@ -26,7 +26,7 @@ In order to make the consruction easier and less time consuming, it was decided 
 ##Cutting the Threaded Bar
   * **Elements Required**
    1. Access to an Angle Grinder
-   2. ((((CORRECT NUMBER))))) of threaded bar  
+   2. **((((CORRECT NUMBER)))))** of threaded bar  
 In order for each set of ten panels to be able to be attached to each other, the threaded bars must be cut to 485mm lenghts, this is just enough to attach the 10 panels and be able to secure a bolt at each end. If it was any longer, it would disrupt the spacing between sets. Ensure safety precautions are employed with the use of the angle grinder, e.g. wear protective clothing and eye protection etc.. After the bars are cut, they must be filed down to ensure that the bolt will fit correctly and that the elements will not be too sharp.
 
 ##Assembling a set of 10
