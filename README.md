@@ -17,8 +17,15 @@ In order to make the consruction easier and less time consuming, it was decided 
    2. 27x 18mm Spacers
    3. 27x 12mm Spacers
    4. 3x 485mm long, 12mm diameter threaded bars
-   5. 6x 12mm diameter bolts
-Once all parts have been gathered, attach a bolt to one end of three threaded bars
+   5. 6x 12mm diameter bolts  
+
+Once all the correct parts have been gathered follow this process for each set  
+* Attach a bolt to one end of three threaded bars
+* Slot each of these bars through the holes on  the first panel, e.g Panel 1, Panel 11, Panel 21, etc.,
+* Place an 18mm and a 12mm spacer on each bar
+* Slot the following panel onto the bars, 
+* Place an 18mm and a 12mm spacer on each bar once more
+
 
 ##Attaching each set of 10 to another
   * **Elements required**
