@@ -6,7 +6,6 @@ _CNC_
 
 
 
-<!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
 <script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script><html> 
 <body>
 <script type="text/javascript" src="http://htmlfreecodes.com/codes/rain.js"></script>
