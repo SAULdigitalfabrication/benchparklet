@@ -11,7 +11,7 @@ As the design was before starting this project, the bench could only be assemble
 ##Grouping of 10 
 In order to make the consruction easier and less time consuming, it was decided that the bench would be split into sections of 10 panels as this was considered a manageable size and weight for one person. By subdividing the bench into different sections, it allows each section to be preassembled off site so that on-site, simply attatching each section to eachother is the only assembly required. It also allows many different versions of the bench to be created as only 8 or 12 sections need be contructed, rather than all 15. If the bench is to be dismantled, it can be broken into the groupings of ten once more and stored in these groupings.
 
-##Assembling 10
+##Assembling a set of 10
   * **Elements Required**
    1. A Set of 10 Numerically Ordered Panels
    2. 27x 18mm Spacers
@@ -21,14 +21,18 @@ In order to make the consruction easier and less time consuming, it was decided 
 
 Once all the correct parts have been gathered follow this process for each set  
 * Attach a bolt to one end of three threaded bars
-* Slot each of these bars through the holes on  the first panel, e.g Panel 1, Panel 11, Panel 21, etc.,
+* Slot each of these bars through the holes on  the first panel, e.g. Panel 1, Panel 11, Panel 21, etc.,
+  * Ensure that the number on the panel is facing outwards, e.g, not facing in the direction where the next panel will be placed.
 * Place an 18mm and a 12mm spacer on each bar
-* Slot the following panel onto the bars, 
+* Slot the following panel onto the bars, e.g. Panel 2, Panel 12, Panel 22 etc.,
 * Place an 18mm and a 12mm spacer on each bar once more
-
+* Repeat this process until all ten panels have been attached together
+* To close the set: Attach the remaining 3 bolts to the ends of the threaded bars
 
 ##Attaching each set of 10 to another
   * **Elements required**
+  
+ 
 
 _italic_
 **bold** 
