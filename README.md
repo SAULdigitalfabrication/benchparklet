@@ -8,6 +8,12 @@ As the design was before starting this project, the bench could only be assemble
    2. 26x 18mm 1220x2440mm Marine Plywood sheets
    3. 1x 12mm 1220x2440mm Marine Plywood sheet
 
+##Cutting the Threaded Bar
+  * **Elements Required**
+   1. Access to an Angle Grinder
+   2. ((((CORRECT NUMBER))))) of threaded bar  
+In order for each set of ten panels to be able to be attached to each other, the threaded bars must be cut to 485mm lenghts, this is just enough to attach the 10 panels and be able to secure a bolt at each end. If it was any longer, it would disrupt the spacing between sets. Ensure safety precautions are employed with the use of the angle grinder, e.g. wear protective clothing and eye protection etc.. After the bars are cut, they must be filed down to ensure that the bolt will fit correctly and that the elements will not be too sharp.
+
 ##Grouping of 10 
 In order to make the consruction easier and less time consuming, it was decided that the bench would be split into sections of 10 panels as this was considered a manageable size and weight for one person. By subdividing the bench into different sections, it allows each section to be preassembled off site so that on-site, simply attatching each section to eachother is the only assembly required. It also allows many different versions of the bench to be created as only 8 or 12 sections need be contructed, rather than all 15. If the bench is to be dismantled, it can be broken into the groupings of ten once more and stored in these groupings.
 
