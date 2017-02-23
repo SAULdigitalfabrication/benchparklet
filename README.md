@@ -1,6 +1,7 @@
-### The Limerick Parklet
-_CNC_
-**lasercutting** 
+# The Limerick Parklet
+This elective sought to improve an existing parklet bench design to make it easier and faster to assemble.  
+_italic_
+**bold** 
 ##Grouping of 10 
   * Parts Required
     1. 10 Panels
