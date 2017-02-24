@@ -1,7 +1,7 @@
 ## The Limerick Parklet
 This elective sought to improve an existing parklet bench design to make it easier and faster to assemble. The parametric bench exists as a set of 155 18mm Marine Plywood CNC cut panels, each of a different size and shape, connected by threaded bars, secured by nuts and separated using CNC cut Marine Plywood spacers of 18mm and 12mm thickness to produce a 30mm space between each panel.  
 As the design was before starting this project, the bench could only be assembled by approximately 3 people at a time and in one direction only. Due to the parametric nature of the bench, the threaded bars were each of a different length and needed to be cut. So an aim of the elective was to speed up the construction process and standardise the materials required as much as possible. 
-
+  
 ![The complete bench](https://github.com/SAULdigitalfabrication/benchparklet/blob/master/16931111_1493991527280438_752524957_o.jpg)
 
 ###Cutting the Panels
@@ -79,7 +79,7 @@ Once all the correct parts have been gathered follow this process for each set
 
 ###Hacking the Bench
 
-The aim of this elective was to take the existing bench and adapt it to be assembled more easily. To save material we decided to try hack the old panels to fit the new system of grouping panels. 
+The aim of this elective was to take the existing bench and adapt it to be assembled more easily. To save material we decided to try hack the old panels to fit the new system of grouped panels. The existing holes in the panels are not always common to 10 sequential panels so the location of new holes must be found and drilled.
 
 _italic_
 **bold** 
