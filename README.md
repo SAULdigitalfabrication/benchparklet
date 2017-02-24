@@ -81,7 +81,11 @@ Once all the correct parts have been gathered follow this process for each set
 
 The aim of this elective was to take the existing bench and adapt it to be assembled more easily. To save material we decided to try hack the old panels to fit the new system of grouped panels. The existing holes in the panels are not always common to 10 sequential panels so the location of new holes must be found and drilled.  
 To do this each set of ten panels had to be overlaid on top of each other on AutoCAD using the old holes as base points as there is no point common to all panels. Some of the existing holes were retained but in some sets, new holes were needed.   
-In order to determine an accurate location to drill new holes, templates were created to be used as drilling guides. These were lasercut out of 3mm MDF. Two bars were placed into two of the existing holes and then the templates were slotted on top. Any new holes required would could then have their position identified using the templates and could be drilled using a hand drill. This procedure was repeated for each panel that required new holes to be drilled. 
+In order to determine an accurate location to drill new holes, templates were created to be used as drilling guides. These were lasercut out of 3mm MDF. Two bars were placed into two of the existing holes and then the templates were slotted on top. Any new holes required would could then have their position identified using the templates and could be drilled using a hand drill. This procedure was repeated for each panel that required new holes to be drilled.  
+Unfortunately some of the new holes were not drilled accurately and when each set was being assembled, the holes did not line up.
+
+###The Platform
+Another aim of this elective was to design a foundation system that would allow the bench to sit on different terrains and be adaptable to small slopes.
 
 _italic_
 **bold** 
