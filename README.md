@@ -2,7 +2,7 @@
 This elective sought to improve an existing parklet bench design to make it easier and faster to assemble. The parametric bench exists as a set of 155 18mm Marine Plywood CNC cut panels, each of a different size and shape, connected by threaded bars, secured by nuts and separated using CNC cut Marine Plywood spacers of 18mm and 12mm thickness to produce a 30mm space between each panel.  
 As the design was before starting this project, the bench could only be assembled by approximately 3 people at a time and in one direction only. Due to the parametric nature of the bench, the threaded bars were each of a different length and needed to be cut. So an aim of the elective was to speed up the construction process and standardise the materials required as much as possible. 
 
-![Image of a Portion of the Bench](benchparklet/16931111_1493991527280438_752524957_o.jpg)
+![The complete bench](https://github.com/SAULdigitalfabrication/benchparklet/blob/master/16931111_1493991527280438_752524957_o.jpg)
 
 ###Cutting the Panels
   * **Elements Required** (_to create the entire bench_)
