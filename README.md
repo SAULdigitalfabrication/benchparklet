@@ -85,7 +85,7 @@ In order to determine an accurate location to drill new holes, templates were cr
 Unfortunately some of the new holes were not drilled accurately and when each set was being assembled, the holes did not line up.
 
 ###The Platform
-Another aim of this elective was to design a foundation system that would allow the bench to sit on different terrains and be adaptable to small slopes.
+Another aim of this elective was to design a foundation system that would allow the bench to sit on different terrains and be adaptable to small slopes. Many different solutions were proposed and tested, some proved to be too costly while others, which attempted to integrate more into the structure of the bench, actually made the whole  
 
 _italic_
 **bold** 
