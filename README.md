@@ -90,6 +90,9 @@ For those sets whose templetes did not work as hoped, it is expected that it wou
 ###The Platform
 Another aim of this elective was to design a foundation system that would allow the bench to sit on different terrains and be adaptable to small slopes. Many different solutions were proposed and tested, some proved to be too costly while others, which attempted to integrate more into the structure of the bench, actually made the whole  
 
+###Conclusion
+The research and proposals of the elective worked in theory, but the failure to finish the assembly of the bench proved that it was more difficult to carry out than expected. We believe that the system will still work, as explified by the correctly assembled pieces, but perhaps not enough care was taken in the creation of the templates and in the execution of drilling the new holes. If the files had been more organised and the holes correctly labelled, this may have helped a considerable amount
+
 _italic_
 **bold** 
 ~~Strikethrough~~
