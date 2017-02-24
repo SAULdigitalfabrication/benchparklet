@@ -79,7 +79,9 @@ Once all the correct parts have been gathered follow this process for each set
 
 ###Hacking the Bench
 
-The aim of this elective was to take the existing bench and adapt it to be assembled more easily. To save material we decided to try hack the old panels to fit the new system of grouped panels. The existing holes in the panels are not always common to 10 sequential panels so the location of new holes must be found and drilled.
+The aim of this elective was to take the existing bench and adapt it to be assembled more easily. To save material we decided to try hack the old panels to fit the new system of grouped panels. The existing holes in the panels are not always common to 10 sequential panels so the location of new holes must be found and drilled.  
+To do this each set of ten panels had to be overlaid on top of each other on AutoCAD using the old holes as base points as there is no point common to all panels. Some of the existing holes were retained but in some sets, new holes were needed.   
+In order to determine an accurate location to drill new holes, templates were created to be used as drilling guides. These were lasercut out of 3mm MDF.
 
 _italic_
 **bold** 
