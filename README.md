@@ -77,6 +77,10 @@ Once all the correct parts have been gathered follow this process for each set
 **174x 12mm diameter nuts =>** 174x =  
 
 
+###Hacking the Bench
+
+The aim of this elective was to take the existing bench and adapt it to be assembled more easily. To save material we decided to try hack the old panels to fit the new system of grouping panels. 
+
 _italic_
 **bold** 
 ~~Strikethrough~~
