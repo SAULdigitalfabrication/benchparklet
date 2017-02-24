@@ -1,5 +1,5 @@
 ## The Limerick Parklet
-This elective sought to improve an existing parklet bench design to make it easier and faster to assemble. The parametric bench exists as a set of 155 18mm Marine Plywood CNC cut panels, each of a different size and shape, connected by threaded bars, secured by bolts and separated using CNC cut Marine Plywood spacers of 18mm and 12mm thickness to produce a 30mm space between each panel.  
+This elective sought to improve an existing parklet bench design to make it easier and faster to assemble. The parametric bench exists as a set of 155 18mm Marine Plywood CNC cut panels, each of a different size and shape, connected by threaded bars, secured by nuts and separated using CNC cut Marine Plywood spacers of 18mm and 12mm thickness to produce a 30mm space between each panel.  
 As the design was before starting this project, the bench could only be assembled by approximately 3 people at a time and in one direction only. Due to the parametric nature of the bench, the threaded bars were each of a different length and needed to be cut. So an aim of the elective was to speed up the construction process and standardise the materials required as much as possible. 
 
 ![Image of a Portion of the Bench](https://github.com/SAULdigitalfabrication/benchparklet/blob/master/IMG_2133.JPG)
@@ -12,7 +12,7 @@ As the design was before starting this project, the bench could only be assemble
    
 * Each plywood sheet must be loaded onto the CNC router bed and secured in place using at least one screw on each corner
   * ensure that these are no more than 20mm into the sheet as otherwise his will interfere with the drawing
-* Open the file of the first sheet to be cut onto the relevant G-code software (in our case we used VCarve PRO)
+* Open the file of the first sheet to be cut onto the relevant CNC cutting software (in our case we used VCarve PRO)
 * Assign the correct material qualities, e.g. the 1220x2440mm sheet size and 18mm thickness
 * The holes will be drilled first: On the drawing, select all holes to be drilled and assign them a drilling toolpath, with a depth of about 19mm (this ensures that the CNC will cut through the whole material) and select that the drill follows the inside path of the line
 * Next the labelling numbers will be engraved, or pocketed, into the panels. Select all the numbers and assign them a pocketing toolpath with a depth of 9mm
@@ -31,7 +31,7 @@ In order to make the construction easier and less time consuming, it was decided
    2. 28x 1m long, 12mm diameter threaded bar  
      * These will be cut to produce 45x 485mm lengths and 42x 110mm lengths
    
-In order for each set of ten panels to be able to be attached to each other, the threaded bars must be cut to 485mm lengths, this is just enough to attach the 10 panels and be able to secure a bolt at each end. If it was any longer, it would disrupt the spacing between sets. Ensure safety precautions are employed with the use of the angle grinder, e.g. wear protective clothing and eye protection etc.. After the bars are cut, they must be filed down to ensure that the bolt will fit correctly and that the elements will not be too sharp.  
+In order for each set of ten panels to be able to be attached to each other, the threaded bars must be cut to 485mm lengths, this is just enough to attach the 10 panels and be able to secure a nut at each end. If it was any longer, it would disrupt the spacing between sets. Ensure safety precautions are employed with the use of the angle grinder, e.g. wear protective clothing and eye protection etc.. After the bars are cut, they must be filed down to ensure that the nut will fit correctly and that the elements will not be too sharp.  
 23 bars will be cut to produce 45x 485mm lengths with approximately half a bar to spare. (2 lengths per 1m bar)
 5 bars will be cut to produce 40x 110mm lengths. (8 lengths per 1m bar) the remaining 2 110mm lengths can be cut from the half bar spare from the 485mm cuts.
 
@@ -44,7 +44,7 @@ In order for each set of ten panels to be able to be attached to each other, the
    5. 6x 12mm diameter nuts  
 
 Once all the correct parts have been gathered follow this process for each set  
-* Attach a bolt to one end of three threaded bars
+* Attach a nut to one end of three threaded bars
 * Slot each of these bars through the holes on  the first panel, e.g. Panel 1, Panel 11, Panel 21, etc.,
   * Ensure that the number on the panel is facing outwards, e.g, not facing in the direction where the next panel will be placed.
 * Place an 18mm and a 12mm spacer on each bar
