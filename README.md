@@ -73,8 +73,8 @@ Once all the correct parts have been gathered follow this process for each set
 ###Total Schedule of Material and Projected Cost
 **26x 18mm Marine Plywood Sheets =>** 26x €62.24 = _€1,618.24_ (IrishWire Products Pricing)  
 **1x 12mm Marine Plywood Sheet =>** 1x €48.71 = _€48.71_ (IrishWire Products Pricing)  
-**28x 1m long, 12mm diameter threaded bar =>** 28x  =
-**174x 12mm diameter bolts =>** 174x =
+**28x 1m long, 12mm diameter threaded bar =>** 28x  =  
+**174x 12mm diameter bolts =>** 174x =  
 
 
 _italic_
