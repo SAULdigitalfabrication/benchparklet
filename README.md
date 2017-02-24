@@ -68,7 +68,10 @@ Once all the correct parts have been gathered follow this process for each set
 * Once the two sets are aligned and the bars now thread both panels, e.g. panels 10 and 11, panels 20 and 21, panels 30 and 31 etc., attach the remaining 3 bolts to the open end of each 110mm bar
 * Repeat this process for your desired number of sets to complete the construction of the bench
 
-
+###Total Schedule of Material and Projected Cost
+**26x 18mm Marine Plywood Sheets =>** 26x €62.24 = _€1,618.24_ (IrishWire Products Pricing)  
+**1x 12mm Marine Plywood Sheet =>** 1x €48.71 = _€48.71_ (IrishWire Products Pricing)  
+**63x 1m long, 12mm diameter threaded bar =>** 63x 
 
 _italic_
 **bold** 
