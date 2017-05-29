@@ -4,7 +4,7 @@ As the design was before starting this project, the bench could only be assemble
   
 ![The complete bench](https://github.com/SAULdigitalfabrication/benchparklet/blob/master/16931111_1493991527280438_752524957_o.jpg)
 
-###Cutting the Panels
+### Cutting the Panels
   * **Elements Required** (_to create the entire bench_)
    1. Access to a CNC Router with a bed size of at least 1220x2440mm
    2. 26x 18mm 1220x2440mm Marine Plywood sheets
@@ -22,10 +22,10 @@ As the design was before starting this project, the bench could only be assemble
   * Ensure that safety procedures are followed, e.g. Dust extraction is turned on and that safety goggles and ear protection is worn.
 
 
-###Grouping of 10 
+### Grouping of 10 
 In order to make the construction easier and less time consuming, it was decided that the bench would be split into sections of 10 panels as this was considered a manageable size and weight for one person. By subdividing the bench into different sections, it allows each section to be preassembled off site so that on-site, simply attaching each section to each other is the only assembly required. It also allows many different versions of the bench to be created as only 8 or 12 sections need be constructed, rather than all 15. If the bench is to be dismantled, it can be broken into the groupings of ten once more and stored in these groupings.
 
-###Cutting the Threaded Bar
+### Cutting the Threaded Bar
   * **Elements Required**
    1. Access to an Angle Grinder
    2. 28x 1m long, 12mm diameter threaded bar  
@@ -35,7 +35,7 @@ In order for each set of ten panels to be able to be attached to each other, the
 23 bars will be cut to produce 45x 485mm lengths with approximately half a bar to spare. (2 lengths per 1m bar)
 5 bars will be cut to produce 40x 110mm lengths. (8 lengths per 1m bar) the remaining 2 110mm lengths can be cut from the half bar spare from the 485mm cuts.
 
-###Assembling a set of 10
+### Assembling a set of 10
   * **Elements Required**
    1. A Set of 10 Sequential Panels
    2. 27x 18mm Spacers
@@ -53,7 +53,7 @@ Once all the correct parts have been gathered follow this process for each set
 * Repeat this process until all ten panels have been attached together
 * To close the set: Attach the remaining 3 nuts to the ends of the threaded bars
 
-###Attaching each set of 10 to another
+### Attaching each set of 10 to another
   * **Elements required**
    1. 2x An assembled set of 10 Panels
    2. 3x 110mm long, 12mm diameter threaded bars
@@ -70,14 +70,14 @@ Once all the correct parts have been gathered follow this process for each set
 * Once the two sets are aligned and the bars now thread both panels, e.g. panels 10 and 11, panels 20 and 21, panels 30 and 31 etc., attach the remaining 3 nuts to the open end of each 110mm bar
 * Repeat this process for your desired number of sets to complete the construction of the bench
 
-###Total Schedule of Material and Projected Cost
+### Total Schedule of Material and Projected Cost
 **26x 18mm Marine Plywood Sheets =>** 26x €62.24 = _€1,618.24_ (IrishWire Products Pricing)  
 **1x 12mm Marine Plywood Sheet =>** 1x €48.71 = _€48.71_ (IrishWire Products Pricing)  
 **28x 1m long, 12mm diameter threaded bar =>** 28x  =  
 **174x 12mm diameter nuts =>** 174x =  
 
 
-###Hacking the Bench
+### Hacking the Bench
 
 The main aim of this elective was to take the existing bench design and adapt it to be assembled more easily. To save material we decided to try hack the old panels to fit the new system of grouped panels. The existing holes in the panels are not always common to 10 sequential panels so the location of new holes must be found and drilled.  
 To do this each set of ten panels had to be overlaid on top of each other on AutoCAD using the old holes as base points as there is no point common to all panels. Some of the existing holes were retained but in some sets, new holes were needed.   
@@ -87,8 +87,8 @@ When it went correctly, it took approximately 20 minutes to drill the new holes 
 For those sets whose templates did not work as hoped, it is expected that it would take about 30 minutes to one hour to fix and redraw the templates, they will then need to be lasercut.
  * The first few templates were cut out of MDF, while, to reduce the cost send on materials, others were then cut out of grey card, which I think proved less effective as they moved around more when trying to drill the new holes, and the holes in the grey card which marked the position of the existing holes, were widened by the friction against the threaded bars, and I believe that inaccuracies arose here.
 
-###The Platform
+### The Platform
 Another aim of this elective was to design a foundation system that would allow the bench to sit on different terrains and be adaptable to small slopes. Many different solutions were proposed and tested, some proved to be too costly while others, which attempted to integrate more into the structure of the bench, actually made the whole bench much too high off of the ground and too unstable. A 1:1 scale prototype for a basic platform with drainage channels and holes was designed and CNC cut out of 12mm plywood, which was actually much more stable than we anticipated. After speaking with our tutor it was recommended that we explore the technology of CNC routing more in the design but unfortunately a new prototype was not realised due to time constraints since we decided to prioritise the construction of the bench over the platform, and then ran into problems there. The ideal solution for the platform would have been one that adopted the same language as the bench design and consist of shallow strips of plywood laid on the ground with the grain on edge, if they are spaced close enough together it would still be comfortable to walk on and also the gaps between strips would deal with surface water pooling. It woud also deal with addressing the level change between the road and the kerb very well as the profile of the strips could have rounded edges (to reduce the tripping hazard) and the height of the strips can be easily adjusted to match the kerb height.
 
-###Conclusion
+### Conclusion
 The research and proposals of the elective worked in theory, but the failure to finish the assembly of the bench proved that it was more difficult to carry out than expected. We believe that the system will still work, as exemplified by the correctly assembled pieces, but perhaps not enough care was taken in the creation of the templates and in the execution of drilling the new holes. If the files had been more organised and the holes correctly labelled, this may have helped a considerable amount
